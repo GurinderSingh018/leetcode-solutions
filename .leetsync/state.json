@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1793806708936,
+  "updatedAt": 1793807008997,
   "devices": {
     "856175f6-00d2-4124-8c09-daff8a58a46e": {
-      "lastSeen": 1793806708389
+      "lastSeen": 1793807008354
     }
   },
   "problems": {
@@ -25,7 +25,7 @@
         "Greedy"
       ],
       "title": "Jump Game II",
-      "at": 1793806708389
+      "at": 1793807008354
     }
   },
   "achievements": {
