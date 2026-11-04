@@ -1,18 +1,43 @@
 {
   "v": 1,
-  "updatedAt": 1793773484869,
+  "updatedAt": 1793773710836,
   "devices": {
     "856175f6-00d2-4124-8c09-daff8a58a46e": {
-      "lastSeen": 1793773483293
+      "lastSeen": 1793773708306
     }
   },
-  "problems": {},
-  "achievements": {},
+  "problems": {
+    "45": {
+      "attempts": 1,
+      "bestMemory": "46.4 MB (Beats 98%)",
+      "bestRuntime": "1 ms (Beats 100%)",
+      "date": "2026-11-04",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-11-04",
+      "folderName": "0045-Jump-Game-II",
+      "language": "Java",
+      "number": 45,
+      "slug": "jump-game-ii",
+      "solutionCount": 1,
+      "tags": [
+        "Array",
+        "Dynamic Programming",
+        "Greedy"
+      ],
+      "title": "Jump Game II",
+      "at": 1793773708306
+    }
+  },
+  "achievements": {
+    "first_blood": 1793773499690
+  },
   "sheets": {},
-  "days": [],
+  "days": [
+    "2026-11-04"
+  ],
   "bests": {
-    "longestStreak": 0,
-    "pushes": 0
+    "longestStreak": 1,
+    "pushes": 1
   },
   "identity": {
     "installId": "4bd3e821-cbab-4e04-9557-be0e4f1c7b8c",
