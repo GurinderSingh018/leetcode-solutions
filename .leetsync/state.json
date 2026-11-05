@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1793869747309,
+  "updatedAt": 1793869750109,
   "devices": {
     "856175f6-00d2-4124-8c09-daff8a58a46e": {
-      "lastSeen": 1793869746716
+      "lastSeen": 1793869747553
     }
   },
   "problems": {
@@ -25,7 +25,7 @@
         "Greedy"
       ],
       "title": "Jump Game II",
-      "at": 1793869746716
+      "at": 1793869747553
     },
     "1143": {
       "attempts": 1,
@@ -45,7 +45,7 @@
         "Longest Common Subsequence"
       ],
       "title": "Longest Common Subsequence",
-      "at": 1793869746716
+      "at": 1793869747553
     }
   },
   "achievements": {
