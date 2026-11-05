@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1793873132865,
+  "updatedAt": 1793873347108,
   "devices": {
     "856175f6-00d2-4124-8c09-daff8a58a46e": {
-      "lastSeen": 1793873132289
+      "lastSeen": 1793873346622
     }
   },
   "problems": {
@@ -25,7 +25,7 @@
         "Greedy"
       ],
       "title": "Jump Game II",
-      "at": 1793873132289
+      "at": 1793873346622
     },
     "1143": {
       "attempts": 1,
@@ -45,7 +45,28 @@
         "Longest Common Subsequence"
       ],
       "title": "Longest Common Subsequence",
-      "at": 1793873132289
+      "at": 1793873346622
+    },
+    "1385": {
+      "attempts": 1,
+      "bestMemory": "46.1 MB (Beats 61%)",
+      "bestRuntime": "8 ms (Beats 24%)",
+      "date": "2026-11-05",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-11-05",
+      "folderName": "1385-Find-the-Distance-Value-Between-Two-Arrays",
+      "language": "Java",
+      "number": 1385,
+      "slug": "find-the-distance-value-between-two-arrays",
+      "solutionCount": 1,
+      "tags": [
+        "Array",
+        "Two Pointers",
+        "Binary Search",
+        "Sorting"
+      ],
+      "title": "Find the Distance Value Between Two Arrays",
+      "at": 1793873346622
     }
   },
   "achievements": {
@@ -58,7 +79,7 @@
   ],
   "bests": {
     "longestStreak": 2,
-    "pushes": 2
+    "pushes": 3
   },
   "identity": {
     "installId": "4bd3e821-cbab-4e04-9557-be0e4f1c7b8c",
