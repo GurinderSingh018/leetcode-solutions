@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1793944147721,
+  "updatedAt": 1793944447757,
   "devices": {
     "856175f6-00d2-4124-8c09-daff8a58a46e": {
-      "lastSeen": 1793944146675
+      "lastSeen": 1793944446595
     }
   },
   "problems": {
@@ -25,7 +25,7 @@
         "Greedy"
       ],
       "title": "Jump Game II",
-      "at": 1793944146675
+      "at": 1793944446595
     },
     "1143": {
       "attempts": 1,
@@ -45,7 +45,7 @@
         "Longest Common Subsequence"
       ],
       "title": "Longest Common Subsequence",
-      "at": 1793944146675
+      "at": 1793944446595
     },
     "1385": {
       "attempts": 1,
@@ -66,7 +66,7 @@
         "Sorting"
       ],
       "title": "Find the Distance Value Between Two Arrays",
-      "at": 1793944146675
+      "at": 1793944446595
     }
   },
   "achievements": {
