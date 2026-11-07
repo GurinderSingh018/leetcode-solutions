@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1794050048199,
+  "updatedAt": 1794050348172,
   "devices": {
     "856175f6-00d2-4124-8c09-daff8a58a46e": {
-      "lastSeen": 1794050046649
+      "lastSeen": 1794050346617
     }
   },
   "problems": {
@@ -25,7 +25,26 @@
         "Greedy"
       ],
       "title": "Jump Game II",
-      "at": 1794050046649
+      "at": 1794050346617
+    },
+    "516": {
+      "attempts": 1,
+      "bestMemory": "62.5 MB (Beats 89%)",
+      "bestRuntime": "72 ms (Beats 5%)",
+      "date": "2026-11-07",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-11-07",
+      "folderName": "0516-Longest-Palindromic-Subsequence",
+      "language": "Java",
+      "number": 516,
+      "slug": "longest-palindromic-subsequence",
+      "solutionCount": 1,
+      "tags": [
+        "String",
+        "Dynamic Programming"
+      ],
+      "title": "Longest Palindromic Subsequence",
+      "at": 1794050346617
     },
     "1143": {
       "attempts": 1,
@@ -45,7 +64,7 @@
         "Longest Common Subsequence"
       ],
       "title": "Longest Common Subsequence",
-      "at": 1794050046649
+      "at": 1794050346617
     },
     "1385": {
       "attempts": 1,
@@ -66,7 +85,7 @@
         "Sorting"
       ],
       "title": "Find the Distance Value Between Two Arrays",
-      "at": 1794050046649
+      "at": 1794050346617
     },
     "1882": {
       "attempts": 1,
@@ -85,7 +104,7 @@
         "Heap (Priority Queue)"
       ],
       "title": "Process Tasks Using Servers",
-      "at": 1794050046649
+      "at": 1794050346617
     },
     "2747": {
       "attempts": 1,
@@ -106,7 +125,7 @@
         "Sorting"
       ],
       "title": "Count Zero Request Servers",
-      "at": 1794050046649
+      "at": 1794050346617
     }
   },
   "achievements": {
@@ -122,7 +141,7 @@
   ],
   "bests": {
     "longestStreak": 4,
-    "pushes": 5
+    "pushes": 6
   },
   "identity": {
     "installId": "4bd3e821-cbab-4e04-9557-be0e4f1c7b8c",
