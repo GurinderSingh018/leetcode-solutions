@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1793980228544,
+  "updatedAt": 1794023010142,
   "devices": {
     "856175f6-00d2-4124-8c09-daff8a58a46e": {
-      "lastSeen": 1793980228036
+      "lastSeen": 1794023009537
     }
   },
   "problems": {
@@ -25,7 +25,7 @@
         "Greedy"
       ],
       "title": "Jump Game II",
-      "at": 1793980228036
+      "at": 1794023009537
     },
     "1143": {
       "attempts": 1,
@@ -45,7 +45,7 @@
         "Longest Common Subsequence"
       ],
       "title": "Longest Common Subsequence",
-      "at": 1793980228036
+      "at": 1794023009537
     },
     "1385": {
       "attempts": 1,
@@ -66,20 +66,43 @@
         "Sorting"
       ],
       "title": "Find the Distance Value Between Two Arrays",
-      "at": 1793980228036
+      "at": 1794023009537
+    },
+    "2747": {
+      "attempts": 1,
+      "bestMemory": "149.8 MB (Beats 45%)",
+      "bestRuntime": "51 ms (Beats 35%)",
+      "date": "2026-11-06",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-11-06",
+      "folderName": "2747-Count-Zero-Request-Servers",
+      "language": "Java",
+      "number": 2747,
+      "slug": "count-zero-request-servers",
+      "solutionCount": 1,
+      "tags": [
+        "Array",
+        "Hash Table",
+        "Sliding Window",
+        "Sorting"
+      ],
+      "title": "Count Zero Request Servers",
+      "at": 1794023009537
     }
   },
   "achievements": {
-    "first_blood": 1793773499690
+    "first_blood": 1793773499690,
+    "on_fire": 1793980243887
   },
   "sheets": {},
   "days": [
     "2026-11-04",
-    "2026-11-05"
+    "2026-11-05",
+    "2026-11-06"
   ],
   "bests": {
-    "longestStreak": 2,
-    "pushes": 3
+    "longestStreak": 3,
+    "pushes": 4
   },
   "identity": {
     "installId": "4bd3e821-cbab-4e04-9557-be0e4f1c7b8c",
