@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1794053270283,
+  "updatedAt": 1794053347089,
   "devices": {
     "856175f6-00d2-4124-8c09-daff8a58a46e": {
-      "lastSeen": 1794053269788
+      "lastSeen": 1794053346604
     }
   },
   "problems": {
@@ -25,7 +25,7 @@
         "Greedy"
       ],
       "title": "Jump Game II",
-      "at": 1794053269788
+      "at": 1794053346604
     },
     "516": {
       "attempts": 1,
@@ -44,7 +44,7 @@
         "Dynamic Programming"
       ],
       "title": "Longest Palindromic Subsequence",
-      "at": 1794053269788
+      "at": 1794053346604
     },
     "1143": {
       "attempts": 1,
@@ -64,7 +64,26 @@
         "Longest Common Subsequence"
       ],
       "title": "Longest Common Subsequence",
-      "at": 1794053269788
+      "at": 1794053346604
+    },
+    "1312": {
+      "attempts": 1,
+      "bestMemory": "47.1 MB (Beats 54%)",
+      "bestRuntime": "29 ms (Beats 34%)",
+      "date": "2026-11-07",
+      "difficulty": "Hard",
+      "firstSolvedOn": "2026-11-07",
+      "folderName": "1312-Minimum-Insertion-Steps-to-Make-a-String-Palindrome",
+      "language": "Java",
+      "number": 1312,
+      "slug": "minimum-insertion-steps-to-make-a-string-palindrome",
+      "solutionCount": 1,
+      "tags": [
+        "String",
+        "Dynamic Programming"
+      ],
+      "title": "Minimum Insertion Steps to Make a String Palindrome",
+      "at": 1794053346604
     },
     "1385": {
       "attempts": 1,
@@ -85,7 +104,7 @@
         "Sorting"
       ],
       "title": "Find the Distance Value Between Two Arrays",
-      "at": 1794053269788
+      "at": 1794053346604
     },
     "1882": {
       "attempts": 1,
@@ -104,7 +123,7 @@
         "Heap (Priority Queue)"
       ],
       "title": "Process Tasks Using Servers",
-      "at": 1794053269788
+      "at": 1794053346604
     },
     "2747": {
       "attempts": 1,
@@ -125,7 +144,7 @@
         "Sorting"
       ],
       "title": "Count Zero Request Servers",
-      "at": 1794053269788
+      "at": 1794053346604
     }
   },
   "achievements": {
@@ -141,7 +160,7 @@
   ],
   "bests": {
     "longestStreak": 4,
-    "pushes": 6
+    "pushes": 7
   },
   "identity": {
     "installId": "4bd3e821-cbab-4e04-9557-be0e4f1c7b8c",
