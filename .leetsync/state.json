@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1794578718434,
+  "updatedAt": 1794579018407,
   "devices": {
     "856175f6-00d2-4124-8c09-daff8a58a46e": {
-      "lastSeen": 1794578717887
+      "lastSeen": 1794579017908
     }
   },
   "problems": {
@@ -25,7 +25,7 @@
         "Greedy"
       ],
       "title": "Jump Game II",
-      "at": 1794578717887
+      "at": 1794579017908
     },
     "516": {
       "attempts": 1,
@@ -44,7 +44,7 @@
         "Dynamic Programming"
       ],
       "title": "Longest Palindromic Subsequence",
-      "at": 1794578717887
+      "at": 1794579017908
     },
     "583": {
       "attempts": 1,
@@ -64,7 +64,27 @@
         "Longest Common Subsequence"
       ],
       "title": "Delete Operation for Two Strings",
-      "at": 1794578717887
+      "at": 1794579017908
+    },
+    "1092": {
+      "attempts": 1,
+      "bestMemory": "53.5 MB (Beats 66%)",
+      "bestRuntime": "25 ms (Beats 35%)",
+      "date": "2026-11-13",
+      "difficulty": "Hard",
+      "firstSolvedOn": "2026-11-13",
+      "folderName": "1092-Shortest-Common-Supersequence",
+      "language": "Java",
+      "number": 1092,
+      "slug": "shortest-common-supersequence",
+      "solutionCount": 1,
+      "tags": [
+        "String",
+        "Dynamic Programming",
+        "Longest Common Subsequence"
+      ],
+      "title": "Shortest Common Supersequence ",
+      "at": 1794579017908
     },
     "1143": {
       "attempts": 1,
@@ -84,7 +104,7 @@
         "Longest Common Subsequence"
       ],
       "title": "Longest Common Subsequence",
-      "at": 1794578717887
+      "at": 1794579017908
     },
     "1267": {
       "attempts": 2,
@@ -107,7 +127,7 @@
         "Counting"
       ],
       "title": "Count Servers that Communicate",
-      "at": 1794578717887
+      "at": 1794579017908
     },
     "1312": {
       "attempts": 1,
@@ -126,7 +146,7 @@
         "Dynamic Programming"
       ],
       "title": "Minimum Insertion Steps to Make a String Palindrome",
-      "at": 1794578717887
+      "at": 1794579017908
     },
     "1385": {
       "attempts": 1,
@@ -147,7 +167,7 @@
         "Sorting"
       ],
       "title": "Find the Distance Value Between Two Arrays",
-      "at": 1794578717887
+      "at": 1794579017908
     },
     "1882": {
       "attempts": 1,
@@ -166,7 +186,7 @@
         "Heap (Priority Queue)"
       ],
       "title": "Process Tasks Using Servers",
-      "at": 1794578717887
+      "at": 1794579017908
     },
     "2747": {
       "attempts": 1,
@@ -187,7 +207,7 @@
         "Sorting"
       ],
       "title": "Count Zero Request Servers",
-      "at": 1794578717887
+      "at": 1794579017908
     },
     "3105": {
       "attempts": 3,
@@ -205,7 +225,7 @@
         "Array"
       ],
       "title": "Longest Strictly Increasing or Strictly Decreasing Subarray",
-      "at": 1794578717887
+      "at": 1794579017908
     }
   },
   "achievements": {
@@ -221,11 +241,12 @@
     "2026-11-07",
     "2026-11-08",
     "2026-11-09",
-    "2026-11-12"
+    "2026-11-12",
+    "2026-11-13"
   ],
   "bests": {
     "longestStreak": 6,
-    "pushes": 10
+    "pushes": 11
   },
   "identity": {
     "installId": "4bd3e821-cbab-4e04-9557-be0e4f1c7b8c",
