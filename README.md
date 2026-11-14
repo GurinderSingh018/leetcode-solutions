@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-11%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-2%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-7%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-2%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-12%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-2%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-7%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-3%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -30,6 +30,7 @@
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
 | 45 | [Jump Game II](problems/0045-Jump-Game-II) | 🟧 Medium | `Java` | 2026-11-04 |
+| 115 | [Distinct Subsequences](problems/0115-Distinct-Subsequences) | 🟥 Hard | `Java` | 2026-11-14 |
 | 516 | [Longest Palindromic Subsequence](problems/0516-Longest-Palindromic-Subsequence) | 🟧 Medium | `Java` | 2026-11-07 |
 | 583 | [Delete Operation for Two Strings](problems/0583-Delete-Operation-for-Two-Strings) | 🟧 Medium | `Java` | 2026-11-09 |
 | 1092 | [Shortest Common Supersequence ](problems/1092-Shortest-Common-Supersequence) | 🟥 Hard | `Java` | 2026-11-13 |
