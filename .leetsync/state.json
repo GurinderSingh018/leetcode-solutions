@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1794666919499,
+  "updatedAt": 1794667219450,
   "devices": {
     "856175f6-00d2-4124-8c09-daff8a58a46e": {
-      "lastSeen": 1794666917929
+      "lastSeen": 1794667217889
     }
   },
   "problems": {
@@ -25,7 +25,26 @@
         "Greedy"
       ],
       "title": "Jump Game II",
-      "at": 1794666917929
+      "at": 1794667217889
+    },
+    "115": {
+      "attempts": 1,
+      "bestMemory": "54.1 MB (Beats 49%)",
+      "bestRuntime": "22 ms (Beats 30%)",
+      "date": "2026-11-14",
+      "difficulty": "Hard",
+      "firstSolvedOn": "2026-11-14",
+      "folderName": "0115-Distinct-Subsequences",
+      "language": "Java",
+      "number": 115,
+      "slug": "distinct-subsequences",
+      "solutionCount": 1,
+      "tags": [
+        "String",
+        "Dynamic Programming"
+      ],
+      "title": "Distinct Subsequences",
+      "at": 1794667217889
     },
     "516": {
       "attempts": 1,
@@ -44,7 +63,7 @@
         "Dynamic Programming"
       ],
       "title": "Longest Palindromic Subsequence",
-      "at": 1794666917929
+      "at": 1794667217889
     },
     "583": {
       "attempts": 1,
@@ -64,7 +83,7 @@
         "Longest Common Subsequence"
       ],
       "title": "Delete Operation for Two Strings",
-      "at": 1794666917929
+      "at": 1794667217889
     },
     "1092": {
       "attempts": 1,
@@ -84,7 +103,7 @@
         "Longest Common Subsequence"
       ],
       "title": "Shortest Common Supersequence ",
-      "at": 1794666917929
+      "at": 1794667217889
     },
     "1143": {
       "attempts": 1,
@@ -104,7 +123,7 @@
         "Longest Common Subsequence"
       ],
       "title": "Longest Common Subsequence",
-      "at": 1794666917929
+      "at": 1794667217889
     },
     "1267": {
       "attempts": 2,
@@ -127,7 +146,7 @@
         "Counting"
       ],
       "title": "Count Servers that Communicate",
-      "at": 1794666917929
+      "at": 1794667217889
     },
     "1312": {
       "attempts": 1,
@@ -146,7 +165,7 @@
         "Dynamic Programming"
       ],
       "title": "Minimum Insertion Steps to Make a String Palindrome",
-      "at": 1794666917929
+      "at": 1794667217889
     },
     "1385": {
       "attempts": 1,
@@ -167,7 +186,7 @@
         "Sorting"
       ],
       "title": "Find the Distance Value Between Two Arrays",
-      "at": 1794666917929
+      "at": 1794667217889
     },
     "1882": {
       "attempts": 1,
@@ -186,7 +205,7 @@
         "Heap (Priority Queue)"
       ],
       "title": "Process Tasks Using Servers",
-      "at": 1794666917929
+      "at": 1794667217889
     },
     "2747": {
       "attempts": 1,
@@ -207,7 +226,7 @@
         "Sorting"
       ],
       "title": "Count Zero Request Servers",
-      "at": 1794666917929
+      "at": 1794667217889
     },
     "3105": {
       "attempts": 3,
@@ -225,7 +244,7 @@
         "Array"
       ],
       "title": "Longest Strictly Increasing or Strictly Decreasing Subarray",
-      "at": 1794666917929
+      "at": 1794667217889
     }
   },
   "achievements": {
@@ -242,11 +261,12 @@
     "2026-11-08",
     "2026-11-09",
     "2026-11-12",
-    "2026-11-13"
+    "2026-11-13",
+    "2026-11-14"
   ],
   "bests": {
     "longestStreak": 6,
-    "pushes": 11
+    "pushes": 12
   },
   "identity": {
     "installId": "4bd3e821-cbab-4e04-9557-be0e4f1c7b8c",
