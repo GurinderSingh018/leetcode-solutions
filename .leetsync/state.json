@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1795062604559,
+  "updatedAt": 1795062761855,
   "devices": {
     "856175f6-00d2-4124-8c09-daff8a58a46e": {
-      "lastSeen": 1795062598995
+      "lastSeen": 1795062760992
     }
   },
   "problems": {
@@ -25,7 +25,7 @@
         "Greedy"
       ],
       "title": "Jump Game II",
-      "at": 1795062598995
+      "at": 1795062760992
     },
     "72": {
       "attempts": 1,
@@ -44,7 +44,7 @@
         "Dynamic Programming"
       ],
       "title": "Edit Distance",
-      "at": 1795062598995
+      "at": 1795062760992
     },
     "104": {
       "attempts": 1,
@@ -65,7 +65,7 @@
         "Binary Tree"
       ],
       "title": "Maximum Depth of Binary Tree",
-      "at": 1795062598995
+      "at": 1795062760992
     },
     "115": {
       "attempts": 1,
@@ -84,7 +84,7 @@
         "Dynamic Programming"
       ],
       "title": "Distinct Subsequences",
-      "at": 1795062598995
+      "at": 1795062760992
     },
     "516": {
       "attempts": 1,
@@ -103,7 +103,7 @@
         "Dynamic Programming"
       ],
       "title": "Longest Palindromic Subsequence",
-      "at": 1795062598995
+      "at": 1795062760992
     },
     "583": {
       "attempts": 1,
@@ -123,7 +123,7 @@
         "Longest Common Subsequence"
       ],
       "title": "Delete Operation for Two Strings",
-      "at": 1795062598995
+      "at": 1795062760992
     },
     "1092": {
       "attempts": 1,
@@ -143,7 +143,7 @@
         "Longest Common Subsequence"
       ],
       "title": "Shortest Common Supersequence ",
-      "at": 1795062598995
+      "at": 1795062760992
     },
     "1143": {
       "attempts": 1,
@@ -163,7 +163,7 @@
         "Longest Common Subsequence"
       ],
       "title": "Longest Common Subsequence",
-      "at": 1795062598995
+      "at": 1795062760992
     },
     "1267": {
       "attempts": 2,
@@ -186,7 +186,7 @@
         "Counting"
       ],
       "title": "Count Servers that Communicate",
-      "at": 1795062598995
+      "at": 1795062760992
     },
     "1312": {
       "attempts": 1,
@@ -205,7 +205,7 @@
         "Dynamic Programming"
       ],
       "title": "Minimum Insertion Steps to Make a String Palindrome",
-      "at": 1795062598995
+      "at": 1795062760992
     },
     "1385": {
       "attempts": 1,
@@ -226,7 +226,7 @@
         "Sorting"
       ],
       "title": "Find the Distance Value Between Two Arrays",
-      "at": 1795062598995
+      "at": 1795062760992
     },
     "1882": {
       "attempts": 1,
@@ -245,7 +245,27 @@
         "Heap (Priority Queue)"
       ],
       "title": "Process Tasks Using Servers",
-      "at": 1795062598995
+      "at": 1795062760992
+    },
+    "2567": {
+      "attempts": 1,
+      "bestMemory": "59.2 MB (Beats 86%)",
+      "bestRuntime": "18 ms (Beats 89%)",
+      "date": "2026-11-19",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-11-19",
+      "folderName": "2567-Minimum-Score-by-Changing-Two-Elements",
+      "language": "Java",
+      "number": 2567,
+      "slug": "minimum-score-by-changing-two-elements",
+      "solutionCount": 1,
+      "tags": [
+        "Array",
+        "Greedy",
+        "Sorting"
+      ],
+      "title": "Minimum Score by Changing Two Elements",
+      "at": 1795062760992
     },
     "2747": {
       "attempts": 1,
@@ -266,7 +286,7 @@
         "Sorting"
       ],
       "title": "Count Zero Request Servers",
-      "at": 1795062598995
+      "at": 1795062760992
     },
     "2914": {
       "attempts": 1,
@@ -284,7 +304,7 @@
         "String"
       ],
       "title": "Minimum Number of Changes to Make Binary String Beautiful",
-      "at": 1795062598995
+      "at": 1795062760992
     },
     "3105": {
       "attempts": 3,
@@ -302,12 +322,13 @@
         "Array"
       ],
       "title": "Longest Strictly Increasing or Strictly Decreasing Subarray",
-      "at": 1795062598995
+      "at": 1795062760992
     }
   },
   "achievements": {
     "deca": 1794457030981,
     "first_blood": 1793773499690,
+    "medium_rare": 1795062618762,
     "on_fire": 1793980243887
   },
   "sheets": {},
@@ -323,11 +344,12 @@
     "2026-11-14",
     "2026-11-16",
     "2026-11-17",
-    "2026-11-18"
+    "2026-11-18",
+    "2026-11-19"
   ],
   "bests": {
     "longestStreak": 6,
-    "pushes": 15
+    "pushes": 16
   },
   "identity": {
     "installId": "4bd3e821-cbab-4e04-9557-be0e4f1c7b8c",
