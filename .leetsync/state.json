@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1795267810440,
+  "updatedAt": 1795267961617,
   "devices": {
     "856175f6-00d2-4124-8c09-daff8a58a46e": {
-      "lastSeen": 1795267808906
+      "lastSeen": 1795267961013
     }
   },
   "problems": {
@@ -25,7 +25,7 @@
         "Greedy"
       ],
       "title": "Jump Game II",
-      "at": 1795267808906
+      "at": 1795267961013
     },
     "72": {
       "attempts": 1,
@@ -44,7 +44,7 @@
         "Dynamic Programming"
       ],
       "title": "Edit Distance",
-      "at": 1795267808906
+      "at": 1795267961013
     },
     "104": {
       "attempts": 1,
@@ -65,7 +65,7 @@
         "Binary Tree"
       ],
       "title": "Maximum Depth of Binary Tree",
-      "at": 1795267808906
+      "at": 1795267961013
     },
     "115": {
       "attempts": 1,
@@ -84,7 +84,7 @@
         "Dynamic Programming"
       ],
       "title": "Distinct Subsequences",
-      "at": 1795267808906
+      "at": 1795267961013
     },
     "128": {
       "attempts": 2,
@@ -104,7 +104,7 @@
         "Union-Find"
       ],
       "title": "Longest Consecutive Sequence",
-      "at": 1795267808906
+      "at": 1795267961013
     },
     "283": {
       "attempts": 1,
@@ -123,7 +123,7 @@
         "Two Pointers"
       ],
       "title": "Move Zeroes",
-      "at": 1795267808906
+      "at": 1795267961013
     },
     "516": {
       "attempts": 1,
@@ -142,7 +142,7 @@
         "Dynamic Programming"
       ],
       "title": "Longest Palindromic Subsequence",
-      "at": 1795267808906
+      "at": 1795267961013
     },
     "583": {
       "attempts": 1,
@@ -162,7 +162,7 @@
         "Longest Common Subsequence"
       ],
       "title": "Delete Operation for Two Strings",
-      "at": 1795267808906
+      "at": 1795267961013
     },
     "1092": {
       "attempts": 1,
@@ -182,7 +182,7 @@
         "Longest Common Subsequence"
       ],
       "title": "Shortest Common Supersequence ",
-      "at": 1795267808906
+      "at": 1795267961013
     },
     "1143": {
       "attempts": 1,
@@ -202,7 +202,7 @@
         "Longest Common Subsequence"
       ],
       "title": "Longest Common Subsequence",
-      "at": 1795267808906
+      "at": 1795267961013
     },
     "1267": {
       "attempts": 2,
@@ -225,7 +225,7 @@
         "Counting"
       ],
       "title": "Count Servers that Communicate",
-      "at": 1795267808906
+      "at": 1795267961013
     },
     "1312": {
       "attempts": 1,
@@ -244,7 +244,7 @@
         "Dynamic Programming"
       ],
       "title": "Minimum Insertion Steps to Make a String Palindrome",
-      "at": 1795267808906
+      "at": 1795267961013
     },
     "1385": {
       "attempts": 1,
@@ -265,7 +265,7 @@
         "Sorting"
       ],
       "title": "Find the Distance Value Between Two Arrays",
-      "at": 1795267808906
+      "at": 1795267961013
     },
     "1882": {
       "attempts": 1,
@@ -284,7 +284,27 @@
         "Heap (Priority Queue)"
       ],
       "title": "Process Tasks Using Servers",
-      "at": 1795267808906
+      "at": 1795267961013
+    },
+    "2461": {
+      "attempts": 1,
+      "bestMemory": "97.2 MB (Beats 90%)",
+      "bestRuntime": "63 ms (Beats 10%)",
+      "date": "2026-11-21",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-11-21",
+      "folderName": "2461-Maximum-Sum-of-Distinct-Subarrays-With-Length-K",
+      "language": "Java",
+      "number": 2461,
+      "slug": "maximum-sum-of-distinct-subarrays-with-length-k",
+      "solutionCount": 1,
+      "tags": [
+        "Array",
+        "Hash Table",
+        "Sliding Window"
+      ],
+      "title": "Maximum Sum of Distinct Subarrays With Length K",
+      "at": 1795267961013
     },
     "2567": {
       "attempts": 1,
@@ -304,7 +324,7 @@
         "Sorting"
       ],
       "title": "Minimum Score by Changing Two Elements",
-      "at": 1795267808906
+      "at": 1795267961013
     },
     "2747": {
       "attempts": 1,
@@ -325,7 +345,7 @@
         "Sorting"
       ],
       "title": "Count Zero Request Servers",
-      "at": 1795267808906
+      "at": 1795267961013
     },
     "2914": {
       "attempts": 1,
@@ -343,7 +363,7 @@
         "String"
       ],
       "title": "Minimum Number of Changes to Make Binary String Beautiful",
-      "at": 1795267808906
+      "at": 1795267961013
     },
     "3105": {
       "attempts": 3,
@@ -361,7 +381,7 @@
         "Array"
       ],
       "title": "Longest Strictly Increasing or Strictly Decreasing Subarray",
-      "at": 1795267808906
+      "at": 1795267961013
     }
   },
   "achievements": {
@@ -389,7 +409,7 @@
   ],
   "bests": {
     "longestStreak": 6,
-    "pushes": 18
+    "pushes": 19
   },
   "identity": {
     "installId": "4bd3e821-cbab-4e04-9557-be0e4f1c7b8c",
