@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1795241264139,
+  "updatedAt": 1795241562979,
   "devices": {
     "856175f6-00d2-4124-8c09-daff8a58a46e": {
-      "lastSeen": 1795241260990
+      "lastSeen": 1795241561058
     }
   },
   "problems": {
@@ -25,7 +25,7 @@
         "Greedy"
       ],
       "title": "Jump Game II",
-      "at": 1795241260990
+      "at": 1795241561058
     },
     "72": {
       "attempts": 1,
@@ -44,7 +44,7 @@
         "Dynamic Programming"
       ],
       "title": "Edit Distance",
-      "at": 1795241260990
+      "at": 1795241561058
     },
     "104": {
       "attempts": 1,
@@ -65,7 +65,7 @@
         "Binary Tree"
       ],
       "title": "Maximum Depth of Binary Tree",
-      "at": 1795241260990
+      "at": 1795241561058
     },
     "115": {
       "attempts": 1,
@@ -84,7 +84,27 @@
         "Dynamic Programming"
       ],
       "title": "Distinct Subsequences",
-      "at": 1795241260990
+      "at": 1795241561058
+    },
+    "128": {
+      "attempts": 2,
+      "bestMemory": "94.9 MB (Beats 68%)",
+      "bestRuntime": "31 ms (Beats 68%)",
+      "date": "2026-11-21",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-11-21",
+      "folderName": "0128-Longest-Consecutive-Sequence",
+      "language": "Java",
+      "number": 128,
+      "slug": "longest-consecutive-sequence",
+      "solutionCount": 1,
+      "tags": [
+        "Array",
+        "Hash Table",
+        "Union-Find"
+      ],
+      "title": "Longest Consecutive Sequence",
+      "at": 1795241561058
     },
     "516": {
       "attempts": 1,
@@ -103,7 +123,7 @@
         "Dynamic Programming"
       ],
       "title": "Longest Palindromic Subsequence",
-      "at": 1795241260990
+      "at": 1795241561058
     },
     "583": {
       "attempts": 1,
@@ -123,7 +143,7 @@
         "Longest Common Subsequence"
       ],
       "title": "Delete Operation for Two Strings",
-      "at": 1795241260990
+      "at": 1795241561058
     },
     "1092": {
       "attempts": 1,
@@ -143,7 +163,7 @@
         "Longest Common Subsequence"
       ],
       "title": "Shortest Common Supersequence ",
-      "at": 1795241260990
+      "at": 1795241561058
     },
     "1143": {
       "attempts": 1,
@@ -163,7 +183,7 @@
         "Longest Common Subsequence"
       ],
       "title": "Longest Common Subsequence",
-      "at": 1795241260990
+      "at": 1795241561058
     },
     "1267": {
       "attempts": 2,
@@ -186,7 +206,7 @@
         "Counting"
       ],
       "title": "Count Servers that Communicate",
-      "at": 1795241260990
+      "at": 1795241561058
     },
     "1312": {
       "attempts": 1,
@@ -205,7 +225,7 @@
         "Dynamic Programming"
       ],
       "title": "Minimum Insertion Steps to Make a String Palindrome",
-      "at": 1795241260990
+      "at": 1795241561058
     },
     "1385": {
       "attempts": 1,
@@ -226,7 +246,7 @@
         "Sorting"
       ],
       "title": "Find the Distance Value Between Two Arrays",
-      "at": 1795241260990
+      "at": 1795241561058
     },
     "1882": {
       "attempts": 1,
@@ -245,7 +265,7 @@
         "Heap (Priority Queue)"
       ],
       "title": "Process Tasks Using Servers",
-      "at": 1795241260990
+      "at": 1795241561058
     },
     "2567": {
       "attempts": 1,
@@ -265,7 +285,7 @@
         "Sorting"
       ],
       "title": "Minimum Score by Changing Two Elements",
-      "at": 1795241260990
+      "at": 1795241561058
     },
     "2747": {
       "attempts": 1,
@@ -286,7 +306,7 @@
         "Sorting"
       ],
       "title": "Count Zero Request Servers",
-      "at": 1795241260990
+      "at": 1795241561058
     },
     "2914": {
       "attempts": 1,
@@ -304,7 +324,7 @@
         "String"
       ],
       "title": "Minimum Number of Changes to Make Binary String Beautiful",
-      "at": 1795241260990
+      "at": 1795241561058
     },
     "3105": {
       "attempts": 3,
@@ -322,7 +342,7 @@
         "Array"
       ],
       "title": "Longest Strictly Increasing or Strictly Decreasing Subarray",
-      "at": 1795241260990
+      "at": 1795241561058
     }
   },
   "achievements": {
@@ -345,11 +365,12 @@
     "2026-11-16",
     "2026-11-17",
     "2026-11-18",
-    "2026-11-19"
+    "2026-11-19",
+    "2026-11-21"
   ],
   "bests": {
     "longestStreak": 6,
-    "pushes": 16
+    "pushes": 17
   },
   "identity": {
     "installId": "4bd3e821-cbab-4e04-9557-be0e4f1c7b8c",
