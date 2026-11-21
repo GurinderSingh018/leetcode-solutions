@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1795249061600,
+  "updatedAt": 1795249362668,
   "devices": {
     "856175f6-00d2-4124-8c09-daff8a58a46e": {
-      "lastSeen": 1795249061034
+      "lastSeen": 1795249361079
     }
   },
   "problems": {
@@ -25,7 +25,7 @@
         "Greedy"
       ],
       "title": "Jump Game II",
-      "at": 1795249061034
+      "at": 1795249361079
     },
     "72": {
       "attempts": 1,
@@ -44,7 +44,7 @@
         "Dynamic Programming"
       ],
       "title": "Edit Distance",
-      "at": 1795249061034
+      "at": 1795249361079
     },
     "104": {
       "attempts": 1,
@@ -65,7 +65,7 @@
         "Binary Tree"
       ],
       "title": "Maximum Depth of Binary Tree",
-      "at": 1795249061034
+      "at": 1795249361079
     },
     "115": {
       "attempts": 1,
@@ -84,7 +84,7 @@
         "Dynamic Programming"
       ],
       "title": "Distinct Subsequences",
-      "at": 1795249061034
+      "at": 1795249361079
     },
     "128": {
       "attempts": 2,
@@ -104,7 +104,7 @@
         "Union-Find"
       ],
       "title": "Longest Consecutive Sequence",
-      "at": 1795249061034
+      "at": 1795249361079
     },
     "283": {
       "attempts": 1,
@@ -123,7 +123,7 @@
         "Two Pointers"
       ],
       "title": "Move Zeroes",
-      "at": 1795249061034
+      "at": 1795249361079
     },
     "516": {
       "attempts": 1,
@@ -142,7 +142,7 @@
         "Dynamic Programming"
       ],
       "title": "Longest Palindromic Subsequence",
-      "at": 1795249061034
+      "at": 1795249361079
     },
     "583": {
       "attempts": 1,
@@ -162,7 +162,7 @@
         "Longest Common Subsequence"
       ],
       "title": "Delete Operation for Two Strings",
-      "at": 1795249061034
+      "at": 1795249361079
     },
     "1092": {
       "attempts": 1,
@@ -182,7 +182,7 @@
         "Longest Common Subsequence"
       ],
       "title": "Shortest Common Supersequence ",
-      "at": 1795249061034
+      "at": 1795249361079
     },
     "1143": {
       "attempts": 1,
@@ -202,7 +202,7 @@
         "Longest Common Subsequence"
       ],
       "title": "Longest Common Subsequence",
-      "at": 1795249061034
+      "at": 1795249361079
     },
     "1267": {
       "attempts": 2,
@@ -225,7 +225,7 @@
         "Counting"
       ],
       "title": "Count Servers that Communicate",
-      "at": 1795249061034
+      "at": 1795249361079
     },
     "1312": {
       "attempts": 1,
@@ -244,7 +244,7 @@
         "Dynamic Programming"
       ],
       "title": "Minimum Insertion Steps to Make a String Palindrome",
-      "at": 1795249061034
+      "at": 1795249361079
     },
     "1385": {
       "attempts": 1,
@@ -265,7 +265,7 @@
         "Sorting"
       ],
       "title": "Find the Distance Value Between Two Arrays",
-      "at": 1795249061034
+      "at": 1795249361079
     },
     "1882": {
       "attempts": 1,
@@ -284,7 +284,7 @@
         "Heap (Priority Queue)"
       ],
       "title": "Process Tasks Using Servers",
-      "at": 1795249061034
+      "at": 1795249361079
     },
     "2567": {
       "attempts": 1,
@@ -304,7 +304,7 @@
         "Sorting"
       ],
       "title": "Minimum Score by Changing Two Elements",
-      "at": 1795249061034
+      "at": 1795249361079
     },
     "2747": {
       "attempts": 1,
@@ -325,7 +325,7 @@
         "Sorting"
       ],
       "title": "Count Zero Request Servers",
-      "at": 1795249061034
+      "at": 1795249361079
     },
     "2914": {
       "attempts": 1,
@@ -343,7 +343,7 @@
         "String"
       ],
       "title": "Minimum Number of Changes to Make Binary String Beautiful",
-      "at": 1795249061034
+      "at": 1795249361079
     },
     "3105": {
       "attempts": 3,
@@ -361,7 +361,7 @@
         "Array"
       ],
       "title": "Longest Strictly Increasing or Strictly Decreasing Subarray",
-      "at": 1795249061034
+      "at": 1795249361079
     }
   },
   "achievements": {
