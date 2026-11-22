@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-21%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-4%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-14%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-3%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-22%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-4%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-15%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-3%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -35,6 +35,7 @@
 | 104 | [Maximum Depth of Binary Tree](problems/0104-Maximum-Depth-of-Binary-Tree) | 🟩 Easy | `Java` | 2026-11-16 |
 | 115 | [Distinct Subsequences](problems/0115-Distinct-Subsequences) | 🟥 Hard | `Java` | 2026-11-14 |
 | 128 | [Longest Consecutive Sequence](problems/0128-Longest-Consecutive-Sequence) | 🟧 Medium | `Java` | 2026-11-21 |
+| 215 | [Kth Largest Element in an Array](problems/0215-Kth-Largest-Element-in-an-Array) | 🟧 Medium | `Java` | 2026-11-22 |
 | 283 | [Move Zeroes](problems/0283-Move-Zeroes) | 🟩 Easy | `Java` | 2026-11-21 |
 | 516 | [Longest Palindromic Subsequence](problems/0516-Longest-Palindromic-Subsequence) | 🟧 Medium | `Java` | 2026-11-07 |
 | 560 | [Subarray Sum Equals K](problems/0560-Subarray-Sum-Equals-K) | 🟧 Medium | `Java` | 2026-11-22 |
