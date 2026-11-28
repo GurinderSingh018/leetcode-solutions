@@ -30,7 +30,7 @@
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
 | 33 | [Search in Rotated Sorted Array](problems/0033-Search-in-Rotated-Sorted-Array) | 🟧 Medium | `Java` | 2026-11-21 |
-| 44 | [Wildcard Matching](problems/0044-Wildcard-Matching) | 🟥 Hard | `Java` | 2026-11-27 |
+| 44 | [Wildcard Matching](problems/0044-Wildcard-Matching) | 🟥 Hard | `Java` | 2026-11-28 |
 | 45 | [Jump Game II](problems/0045-Jump-Game-II) | 🟧 Medium | `Java` | 2026-11-04 |
 | 72 | [Edit Distance](problems/0072-Edit-Distance) | 🟧 Medium | `Java` | 2026-11-17 |
 | 104 | [Maximum Depth of Binary Tree](problems/0104-Maximum-Depth-of-Binary-Tree) | 🟩 Easy | `Java` | 2026-11-16 |
